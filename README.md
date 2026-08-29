@@ -33,5 +33,5 @@ When I'm not coding, I enjoy:
 
 ## 📫 Get in Touch
 
-- 💼 LinkedIn: [Diogo Arnauth Leitão](https://www.linkedin.com/in/diogo-arnauth-leit%C3%A3o/)
+- 💼 LinkedIn: [Diogo Arnauth Leitão](https://www.linkedin.com/in/diogo-arnauth-leit%C3%A3o-7b175b2b4/)
 - ✉️ Email: Dioarnauth@gmail.com
