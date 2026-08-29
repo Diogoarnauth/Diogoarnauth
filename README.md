@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Diogo Leitão
 
-I'm a Computer Science student passionate about building clean, scalable, and reliable software.
+I'm a Software Engineer passionate about building clean, scalable, and reliable software.
 
 ---
 
