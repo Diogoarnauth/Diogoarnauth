@@ -7,9 +7,9 @@ I'm a Software Engineer passionate about building clean, scalable, and reliable 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science & Engineering Graduate from **ISEL**
-- 🧠 Focused on **Full-Stack Engineering, AI Agents, CI/CD Automation & System Architecture**
+- 🧠 Focused on **Full-Stack Engineering, AI Agents, CI/CD Automation, System Architecture**
 - 🚀 Experienced in developing **enterprise automated failure-triage pipelines and LLM-driven tools**
-- 🤝 Open to collaboration on **Full-Stack, DevOps, and AI/System Engineering projects**
+- 🤝 Open to collaboration on **Full-Stack, DevOps, AI/System, Cloud and Mobile Engineering projects**
 
 ---
 
@@ -17,7 +17,7 @@ I'm a Software Engineer passionate about building clean, scalable, and reliable 
 
 - **Languages:** Python, Java, JavaScript, TypeScript, Kotlin, C, C#, Assembly, SQL
 - **Backend & Frameworks:** Node.js, Express.js, Spring Framework, .NET, React.js
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** PostgreSQL, MongoDB, ElasticSearch, FireStore
 - **DevOps, AI & Tools:** Docker, Jenkins, AI Agents (LLMs/Multimodal), Jira API, Linux, AWS, Grafana, New Relic
 
 ---
